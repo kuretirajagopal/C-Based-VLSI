@@ -1,3 +1,5 @@
 # C-Based-VLSI
 
-HLS for MNIST
+High Level Synthesis(HLS) for MNIST(Hand Written number Recognition)
+
+
